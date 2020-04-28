@@ -1,5 +1,5 @@
 variables:
-  azureSubscription: "757d6292-df43-495e-929c-db67af618b05"
+  azureSubscription: "TTapp"
   resourcegroup: "MC_rsg-evan_k8s_eastus"
   location: "eastus"
   ImageName: website
