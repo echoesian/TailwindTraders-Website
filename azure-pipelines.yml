@@ -1,6 +1,6 @@
 variables:
   azureSubscription: "c1c595e7-cac0-49b1-b979-229b20a5254f"
-  resourcegroup: "rsg-evan"
+  resourcegroup: "MC_rsg-evan_k8s_eastus"
   location: "eastus"
   ImageName: website
 
