@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/echoesian/TailwindTraders/_apis/build/status/echoesian.TailwindTraders-Website?branchName=master)](https://dev.azure.com/echoesian/TailwindTraders/_build/latest?definitionId=3&branchName=master)
+
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
